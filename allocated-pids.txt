@@ -367,3 +367,9 @@ PID    | Product name
 0x8167 | LOLIN S3 Mini - Arduino
 0x8168 | LOLIN S3 Mini - CircuitPython
 0x8169 | LOLIN S3 Mini - UF2 Bootloader
+0x816A | OpenHornet Throttle Quadrant - Arduino
+0x816B | OpenHornet Throttle Quadrant - CircuitPython
+0x816C | OpenHornet Throttle Quadrant - UF2 Bootloader
+0x816D | OpenHornet UFC - Arduino
+0x816E | OpenHornet UFC - CircuitPython
+0x816F | OpenHornet UFC - UF2 Bootloader
